@@ -1,5 +1,7 @@
 Covariance of ICP with 3D Point to Point and Point to Plane Error Metrics
 
+site: https://sites.google.com/site/icpcovariance/
+
 /***************************************
  * This file contains a class that has functions to create SHOT descriptors for feature matching
  * Feature matching is used to bring the two point clouds close so that ICP can converge to a global minima
@@ -16,6 +18,7 @@ Covariance of ICP with 3D Point to Point and Point to Plane Error Metrics
  * My email is
  * saimanoj18@yahoo.com,
  * saimanoj001@e.ntu.edu.sg
+ * https://sites.google.com/site/saimanoj18/
  *
  *
  * **************************************/
