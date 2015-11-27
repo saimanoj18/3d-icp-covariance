@@ -35,21 +35,38 @@ PCL (Point Cloud Library)
 To RUN :
 
 (cd to C++/build folder)
+
 cd code/C++/build
+
 cmake ..
+
 make
+
 ./cov_point_to_point
+
 ./cov_point_to_plane
 
 
 Sample Point Clouds with the package
+
 data_bunny.pcd
+
 model_bunny.pcd
 
 // Important things to Note
 There are comments inline of the code!
 
 Finally...if this work is useful for you...Please cite :)
+
+
+@INPROCEEDINGS{3d_icp_cov,
+author={Prakhya, S.M. and Liu Bingbing and Yan Rui and Weisi Lin},
+booktitle={Machine Vision Applications (MVA), 2015 14th IAPR International Conference on},
+title={A closed-form estimate of 3D ICP covariance},
+year={2015},
+pages={526-529},
+doi={10.1109/MVA.2015.7153246},
+month={May},}
 
 
 Please contact me at
