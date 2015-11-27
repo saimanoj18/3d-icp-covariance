@@ -61,19 +61,12 @@ Finally...if this work is useful for you...Please cite :)
 
 
 @INPROCEEDINGS{3d_icp_cov, 
-
 author={Prakhya, S.M. and Liu Bingbing and Yan Rui and Weisi Lin},
-
 booktitle={Machine Vision Applications (MVA), 2015 14th IAPR International Conference on},
-
 title={A closed-form estimate of 3D ICP covariance},
-
 year={2015},
-
 pages={526-529},
-
 doi={10.1109/MVA.2015.7153246},
-
 month={May},}
 
 
